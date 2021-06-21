@@ -8,9 +8,6 @@
 import UIKit
 
 class TableViewCell: UITableViewCell {
-
     @IBOutlet weak var fullNameLabel: UILabel!
     @IBOutlet weak var ageLabel: UILabel!
-    
-
 }
