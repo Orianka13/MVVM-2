@@ -22,6 +22,7 @@
 		59D6848326822E9A004EFB9C /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59D6848226822E9A004EFB9C /* DetailViewController.swift */; };
 		59D6848526822F7D004EFB9C /* DetailViewModelType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59D6848426822F7D004EFB9C /* DetailViewModelType.swift */; };
 		59D684872682302C004EFB9C /* DetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59D684862682302C004EFB9C /* DetailViewModel.swift */; };
+		59D6848926823E37004EFB9C /* Box.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59D6848826823E37004EFB9C /* Box.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		59D6848226822E9A004EFB9C /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		59D6848426822F7D004EFB9C /* DetailViewModelType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewModelType.swift; sourceTree = "<group>"; };
 		59D684862682302C004EFB9C /* DetailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewModel.swift; sourceTree = "<group>"; };
+		59D6848826823E37004EFB9C /* Box.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Box.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 				59D6845C2680E0A6004EFB9C /* AppDelegate.swift */,
 				59D6845E2680E0A6004EFB9C /* SceneDelegate.swift */,
 				59D684622680E0A6004EFB9C /* Main.storyboard */,
+				59D6848826823E37004EFB9C /* Box.swift */,
 				59D6847D2680FE66004EFB9C /* Protocols */,
 				59D6847C2680FE44004EFB9C /* ViewModel */,
 				59D684772680E6D8004EFB9C /* View */,
@@ -202,6 +205,7 @@
 				59D684732680E235004EFB9C /* Profile.swift in Sources */,
 				59D684712680E147004EFB9C /* TableViewController.swift in Sources */,
 				59D6847B2680FDAB004EFB9C /* TableViewViewModelType.swift in Sources */,
+				59D6848926823E37004EFB9C /* Box.swift in Sources */,
 				59D6848526822F7D004EFB9C /* DetailViewModelType.swift in Sources */,
 				59D684872682302C004EFB9C /* DetailViewModel.swift in Sources */,
 				59D68481268104B8004EFB9C /* TableViewCellViewModel.swift in Sources */,
